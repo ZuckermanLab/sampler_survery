@@ -1,1 +1,1 @@
-# sampler survery
+# sampler survey
