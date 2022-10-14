@@ -1,1 +1,7 @@
 apiwrapper
+
+tellurium
+amici
+pypesto
+pymc >= 4
+pocomc
