@@ -5,3 +5,14 @@ amici
 pypesto
 pymc >= 4
 pocomc
+pyabc
+dynesty
+zeus-mcmc
+numpyro
+emcee
+sigopt
+matplotlib
+numpy 
+pandas
+sunode
+arviz
